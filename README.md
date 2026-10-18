@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there,I'm Lu Junhao👋
+
+- 🎓 I am a freshman majoring in Computer Science at ZUEL (中南财经政法大学).
+- 💻 Currently learning C++ and Data Structures.
+- 🎯 Goal: To pursue a Master's degree at a top 985 university.
+- 🏋️ Hobbies: Fitness, listening to music, playing the piano.
+
+Welcome to my GitHub profile!
+-
 
 <!--
 **lu-junhao/lu-junhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
